@@ -18,7 +18,6 @@ body {
 .hero-image {
     max-width: 100%; /* Ensures image is never wider than its container */
     height: auto; /* Maintains aspect ratio */
-    display: block; /* Removes extra space below image */
     margin: 0 auto; /* Centers the image */
 }
 
