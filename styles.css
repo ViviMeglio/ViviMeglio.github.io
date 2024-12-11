@@ -15,6 +15,10 @@ body {
     padding: 0 15px;
 }
 
+.web-safe-fonts {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .hero-image {
     max-width: 100%; /* Ensures image is never wider than its container */
     height: auto; /* Maintains aspect ratio */
