@@ -1,3 +1,3 @@
-# VIVI MEGLIO
+# Vivi Meglio - 'Muovetevi quando state bene.' 
 
-[sito](https://ViviMeglio.github.io)
+[vivimeglio.org](https://ViviMeglio.github.io)
