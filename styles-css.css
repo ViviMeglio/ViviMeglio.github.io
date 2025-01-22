@@ -1,3 +1,9 @@
+/* Brand Text Style */
+.brand-text {
+    color: #ff0000 !important; /* Bright red */
+    font-weight: 700;
+}
+
 /* Hero Section Styles */
 .hero-section {
     padding: 3rem 0;
